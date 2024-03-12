@@ -1,0 +1,34 @@
+{
+    "assignments": [
+        {
+            "id": 1,
+            "name": "Learn about TailwindCSS", 
+            "complete": false, 
+            "tag": "CSS"
+        },
+        {
+            "id": 2,
+            "name": "Research about web dev", 
+            "complete": false, 
+            "tag": "research"
+        },
+        {
+            "id": 3,
+            "name": "What is Vue?", 
+            "complete": false, 
+            "tag": "javascript"
+        },
+        {
+            "id": 4,
+            "name": "WordPress?", 
+            "complete": false, 
+            "tag": "PHP"
+        },
+        {
+            "id": 5,
+            "name": "Reading chapter 5", 
+            "complete": true, 
+            "tag": "research"
+        }
+    ]
+}
